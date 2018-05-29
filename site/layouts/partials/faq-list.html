@@ -1,0 +1,19 @@
+<div class="flex-l mhn3-l mb4">
+
+  <div class="springhill ph3-m w-100-m">
+    <ul>
+    {{ range .faqs }}
+      <li><a href="#{{ .slug }}">{{ .question | markdownify }}</a></p>
+    {{ end }}
+    </ul>
+  </div>
+
+  <div class="springhill ph3-m w-100-m">
+    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
+    {{ range .faqs }}
+    <p class="b"><a name="{{ .slug }}">{{ .question | markdownify }}</a></p>
+    <p>{{ .answer | markdownify }}</p>
+    {{ end }}
+  </div>
+
+</div>

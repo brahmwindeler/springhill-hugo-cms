@@ -2,12 +2,20 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "short-text-headingless" .Params.blurb}}
 
+{{ partial "3-up" .Params.intro }}
+
+<div class="bg-grey-1 pv4">
+  {{ partial "contact-block" $.Site.Params }}
+</div>
+
+<!--
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
 
 {{ partial "blog" . }}
+-->
 
 {{ end }}

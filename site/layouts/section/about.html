@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="ph3 pv4">
+  <div class="mhn1-l ph3 center mw7">
+    {{ partial "media-block-reverse" .Params.intro }}
+  </div>
+</div>
+
+<!--
+{{ partial "google-map" (dict "mapUrl" .Params.mapUrl) }}
+-->
+
+<div class="springhill bg-grey-1 ph3 pv4">
+  {{ partial "long-text" .Params.history }}
+</div>
+
+<div class="ph3 pv4">
+  <div class="mhn1-l ph3 center mw7">
+    <h2 class="f3 b lh-title mb2 w-100-l">{{.Params.board.officers.heading}}</h2>
+    {{ partial "board-members" .Params.board.officers }}
+  </div>
+</div>
+
+<div class="bg-grey-1 ph3 pv4">
+  {{ partial "long-text" .Params.committees }}
+</div>
+
+{{ end }}

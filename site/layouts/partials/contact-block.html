@@ -1,0 +1,29 @@
+	<div class="ph3 mw7 center">
+
+    <div class="dt-ns dt--fixed-ns">
+
+        <div class="dtc-ns tc pv1 ph2">
+          <h3 class="f3 b lh-title mb3">Contact Us</h3>
+          <p>{{ .contact_text }}</p>
+          <ul>
+            <li class="mb3">{{ .contact_email }}</li>
+            <li class="mb3">{{ .contact_mailbox }}</li>
+          </ul>
+        </div>
+
+        <div class="dtc-ns tc pv1 ph2">
+          <h3 class="f3 b lh-title mb3">Email Us</h3>
+          <p>{{ .email_text }}</p>
+          {{ partial "contact-form" .}}
+        </div>
+
+        <div class="dtc-ns tc pv1 ph2">
+          <h3 class="f3 b lh-title mb3">Newsletter</h3>
+          <p>{{ .newsletter_text }}</p>
+          {{ partial "newsletter-form" .}}
+        </div>
+
+      </div>
+
+    </div>
+  </div>

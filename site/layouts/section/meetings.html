@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title ) }}
+
+<div class="pv4">
+  <div class="flex-l mhn1-l ph3 center mw7">
+    <h2 class="f2 b lh-title mb1">{{ .Params.blurb.heading }}</h2>
+    <div class="springhill w-100-m">
+      {{ range .Params.meetings }}
+      <h3 class="f3 b lh-title mb1">{{ .heading }}</h3>
+      <p>{{ .text | markdownify }}</p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<div class="bg-grey-1 pv4">
+  <div class="mhn1-l ph3 center mw7">
+    {{ partial "document-list" .Params }}
+  </div>
+</div>
+
+<div class="pv4">
+  <div class="mhn1-l ph3 center mw7">
+    {{ partial "document-list" .Params }}
+  </div>
+</div>
+
+{{ end }}

@@ -1,3 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+
+[params]
+  contact_email = "info@springhillsub.com"
+  contact_mailbox = "PO Box 81834, Rochester, MI, 48308-1834"
+  contact_text = "If you need to get in touch with us, our email address and PO Box address are below."
+  email_text = "You can also use the form below to send us a message. We’d love to hear from you. We strive to grow and improve constantly. Your feedback is important to us."
+  newsletter_text = "We try to publish newsletters 1-3 times a year. Subscribe here if you would like a copy of the newsletter delivered by email."

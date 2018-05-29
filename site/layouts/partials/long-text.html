@@ -1,0 +1,10 @@
+<div class="pv4">
+  <div class="mhn1-l ph3 center mw7">
+    <h2 class="f3 b lh-title mb2 w-40-l">{{.heading}}</h2>
+    {{ if .markdownifyText }}
+      {{ .text | markdownify }}
+    {{ else }}
+      <p class="w-60-l mb0">{{.text}}</p>
+    {{ end }}
+  </div>
+</div>
