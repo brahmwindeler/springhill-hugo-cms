@@ -10,6 +10,11 @@
   margin-left: 2em;
 }
 
+.springhill .markdownify h3,
+.springhill .markdownify h4 {
+  font-weight: bold;
+}
+
 .springhill ul {
   margin-bottom: 1em;
 }

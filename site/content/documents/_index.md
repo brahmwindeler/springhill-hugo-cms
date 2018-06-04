@@ -1,6 +1,6 @@
 ---
 title: Documents
-image: /img/faq-jumbotron-maryknoll.jpg
+image: /img/documents-jumbotron-wildcherry.jpg
 heading: Documents
 description: >-
   This page contains all of the documents and definitions that surround the subdivision and the homeowners association.
@@ -39,6 +39,14 @@ documents:
     list:
       - title: By-Laws (last updated 2014)
         url: https://www.dropbox.com/s/3rb67rb8fffdduh/Spring%20Hill%20HOA%20By-Laws%202014.pdf?dl=0
+  - title: Policies
+    description: |
+      Here are a number of policies we maintain regarding our online presence.
+    list:
+      - title: Code of Conduct
+        url: /documents/policies/code_of_conduct/
+      - title: Privacy Policy
+        url: /documents/policies/privacy/
   - title: Newsletters
     description: |
       We periodically publish and distribute newsletters, which we distribute to every home in the neighborhood and include in our new homeowner welcome bags.
