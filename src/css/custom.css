@@ -1,6 +1,5 @@
 @import './imports/_media-queries';
 @import './imports/_variables';
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 .springhill blockquote {
   font-style: italic;
