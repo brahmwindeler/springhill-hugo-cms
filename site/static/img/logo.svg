@@ -16,8 +16,11 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="SpringHillLogoWithIcon.svg">
-  <defs
-     id="defs4152" />
+  <defs id="defs4152">
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -80,9 +83,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <style>
-  @font-face { font-family: 'Open Sans'; src: url('https://fonts.googleapis.com/css?family=Open+Sans') format('application/woff'); }
-  </style>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
