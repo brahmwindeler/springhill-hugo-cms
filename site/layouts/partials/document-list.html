@@ -1,5 +1,5 @@
 {{ range .documents }}
-    <h2 class="f2 b lh-title mb3 pt3">{{.title}}</h2>
+    <h2 class="f2 b lh-title mb3 pt3">{{.heading}}</h2>
     <p class="mw7">{{.description | markdownify}}</p>
 
     <div class="flex-ns mhn2-ns mw7">
@@ -11,7 +11,7 @@
             <img src="{{ .imageUrl }}" style="height:200px;vertical-align:middle">
             {{ end }}
           </td>
-          <td class="ph3 pv2"><a href="{{ .url }}">{{ .title }}</a></td>
+          <td class="ph3 pv2"><a href="{{ .url }}">{{ .name }}</a></td>
         </tr>
       {{ end }}
       </table>

@@ -6,7 +6,7 @@
   <div class="flex-l mhn1-l ph3 center mw7">
     <h2 class="f2 b lh-title mb1">{{ .Params.blurb.heading }}</h2>
     <div class="springhill w-100-m">
-      {{ range .Params.meetings }}
+      {{ range .Params.types }}
       <h3 class="f3 b lh-title mb1">{{ .heading }}</h3>
       <p>{{ .text | markdownify }}</p>
       {{ end }}
