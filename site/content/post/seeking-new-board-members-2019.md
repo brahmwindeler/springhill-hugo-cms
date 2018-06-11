@@ -4,7 +4,7 @@ date: 2018-06-11T10:04:10-04:00
 description: >-
   This coming November, we will need new board members for the HOA as our
   current board member terms, according to the by-laws, are ending.
-image: /img/newsletter2018ss.jpg
+image: /img/volunteergraphic.jpg
 ---
 The past 4 years have been a labor of love for our board members. Brahm Windeler, Leah Roberts, Emily Perez (with the help of previous board members Bryan Willmert, Kim Kutschman, and Christie Catalano) have helped bring the association back from a period of inactivity in the hopes of rejuvenating a sense of community within the neighborhood. We have brought the association back in good standing with the state, created the web site, distributed newsletters, held regular membership meetings, etc.
 
