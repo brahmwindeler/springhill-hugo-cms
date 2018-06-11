@@ -19,6 +19,8 @@ This issue contains information on:
 * Committee happenings
 * Dues
 
+A digital copy of the newsletter can be found on our [documents](/documents) page or [downloaded directly](https://www.dropbox.com/s/oxoruyvvwyr7xce/Spring%20Hill%20Newsletter%202018%20Spring%20Summer.pdf?dl=0).
+
 Thanks to Emily Perez for once again putting the newsletter together!
 
 Thank you to Leah Roberts, Melanie Cole Sinka and Jill Schoenfeld-Demetral for helping fold letters!
