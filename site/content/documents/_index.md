@@ -51,10 +51,12 @@ documents:
     description: |
       We periodically publish and distribute newsletters, which we distribute to every home in the neighborhood and include in our new homeowner welcome bags.
     list:
-      - name: 2015 Summer
-        url: https://www.dropbox.com/s/8oulx4n04gqu41h/Spring%20Hill%20Newsletter%202015%20Summer.pdf?dl=0
-      - name: 2016 Spring
-        url: https://www.dropbox.com/s/y9anm3y6dzkoapq/Spring%20Hill%20Newsletter%202016%20Spring.pdf?dl=0
+      - name: 2018 Spring/Summer
+        url: https://www.dropbox.com/s/oxoruyvvwyr7xce/Spring%20Hill%20Newsletter%202018%20Spring%20Summer.pdf?dl=0
       - name: 2017 Spring/Summer
         url: https://www.dropbox.com/s/e6m6pjnpj5stajm/Spring%20Hill%20Newsletter%202017%20Spring%20Summer.pdf?dl=0
+      - name: 2016 Spring
+        url: https://www.dropbox.com/s/y9anm3y6dzkoapq/Spring%20Hill%20Newsletter%202016%20Spring.pdf?dl=0
+      - name: 2015 Summer
+        url: https://www.dropbox.com/s/8oulx4n04gqu41h/Spring%20Hill%20Newsletter%202015%20Summer.pdf?dl=0
 ---
