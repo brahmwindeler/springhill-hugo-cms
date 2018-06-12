@@ -10,7 +10,7 @@ As the renewal date for our existing web hosting solution was approaching, we to
 
 We also took a step back and determined that our hosting requirements were relatively limited. With the commoditization of today's web techology, it is possible to work within the free tiers of many providers with a little know-how. So that's what we've done. Rather than using a hosted [WordPress](https://wordpress.com) solution, the site is now hosted using a service called [Netlify CMS](https://www.netlifycms.org) with a [GitHub](https://github.com) backend, with some documents stored in [Dropbox](https://www.dropbox.com/). Rather than the pages being dynamically generated on the fly each time a visitor accesses them, the pages are generated once when updated. This makes accessing them very fast and also more secure since the web pages end up being static files. And because everything is stored in GitHub, version changes are tracked automatically!
 
-While this may be a bit overly technical for some of you, the bottom line is cheap to host... so cheap it is free! And since the pages are plain HTML, CSS and Javascript, they are relatively easy to migrate to a new host should the need arise.
+While this may be a bit technical, the bottom line is that it is cheap to host... so cheap that it can be free (and subsidized by businesses paying for higher level tiers)! And since the pages are plain HTML, CSS and Javascript, they are relatively easy to migrate to a new host should the need arise.
 
 We also took the opportunity to figure out how we could better organize the information on the site and what additional resources we could provide.
 
