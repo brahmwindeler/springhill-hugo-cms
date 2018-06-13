@@ -8,12 +8,12 @@ intro:
   blurbs:
     - image: img/icons-meeting.svg
       heading: Meetings
-      text: Learn about upcoming meetings and review notes and slides from past meetings.
+      text: Learn about our meetings and review notes and slides from past meetings.
       buttonText: Read More
       buttonLink: /meetings
     - image: img/icons-calendar.svg
       heading: Events
-      text: Learn about upcoming social events.
+      text: Learn about upcoming social events and meetings.
       buttonText: Read More
       buttonLink: /events
     - image: img/icons-document.svg
