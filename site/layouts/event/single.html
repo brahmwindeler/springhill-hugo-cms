@@ -13,7 +13,7 @@
       <p><em>Where:</em> {{ .Params.location }}</p>
     </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
+      <p>{{ .Description | markdownify }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>
