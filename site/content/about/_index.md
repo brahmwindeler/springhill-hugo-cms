@@ -59,7 +59,7 @@ committees:
     please drop us a line!
 
     * **Architectural Control Committee**
-    * **Social Event Committee:** Kara Poponea, Kelly Kamman
+    * **Social Event Committee:** Kelly Kamman, Melanie Sinka, Laura Schlitt
     * **Welcome Committee:** Cindy Schurman, Barb Pacella
-    * **Entrance Sign Committee:** John Pacella, Brahm Windeler
+    * **Entrance Sign Committee:** John Pacella, Brahm Windeler, Ben Galliway
 ---
