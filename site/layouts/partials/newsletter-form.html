@@ -1,4 +1,4 @@
-<form name="newsletter" method="POST" data-netlify="true">
+<form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bat-phone">
 
   <fieldset>
     <input name="name" type="text" id="name" placeholder="Name" class="w-100 mb2">
@@ -8,6 +8,11 @@
   <fieldset name="newsletter" action="newsletter-subscribe">
     <input name="email" type="text" id="email" placeholder="Email" class="w-100 mb2">
     <label for="email">Email</label>
+  </fieldset>
+
+  <fieldset class="honey">
+    <input name="bat-phone" type="text" id="bat-phone" placeholder="Bat Phone" class="honey w-100 mb2">
+    <label for="bat-phone" class="honey">Don't fill this out if you're human.</label>
   </fieldset>
 
   <div class="tc">

@@ -2,7 +2,7 @@
 <div class="mb4">
   <h4 class="f4 b lh-title mb3 tc">Drop us a line below</h4>
 
-  <form name="contact" method="POST" data-netlify="true">
+  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bat-phone">
     <!-- Name -->
     <fieldset>
       <input name="name" type="text" id="name" placeholder="Name" class="w-100 mb2">
@@ -19,6 +19,11 @@
     <fieldset>
       <textarea name="message" placeholder="Your message" rows="8" cols="80" id="message" class="w-100 mb2"></textarea>
       <label for="message">Your message</label>
+    </fieldset>
+
+    <fieldset class="honey">
+      <input name="bat-phone" type="text" id="bat-phone" placeholder="Bat Phone" class="w-100 mb2">
+      <label for="bat-phone">Don't fill this out if you're human.</label>
     </fieldset>
 
     <!-- Button -->
