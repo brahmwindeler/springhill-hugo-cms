@@ -71,4 +71,6 @@ Overwhelmed with options and without any experience building structures like thi
 
 Our next steps? Gather those quotes and present the options to you all. We're still open to improvements to the designs, ideas for landscaping surrounding the signs, etc.
 
+If the one quote we've received so far is any indication of the true cost of the project, we will require extra fundraising to move forward, as we do not have nearly enough in the bank to cover this. That quote does not even cover landcaping, the laser-etched signs, or the footing. We may need to take a phased approach,  doing only one or two signs at a time. We may need to figure out if there are things we can do ourselves instead.
+
 If you have any questions or thoughts we’d love to hear from you. Reach out on Facebook, at the annual meeting, in person, or via the email address on this site.
