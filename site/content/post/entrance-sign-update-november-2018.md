@@ -4,6 +4,7 @@ date: 2018-11-08T04:44:26.781Z
 description: >-
   Progress toward replacing our aging Spring Hill entrance signs is chugging
   along. Here's an update on what we've accomplished in the past year.
+image: /img/mockup2_closeup.jpg
 ---
 Brahm here. John Pacella and I have been working on this as time allows over the course of the past few months. It has been slow going as we have both had busy personal schedules, but we have made a bit of progress.
 
