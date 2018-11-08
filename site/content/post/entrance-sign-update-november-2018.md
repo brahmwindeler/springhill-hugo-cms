@@ -19,7 +19,7 @@ We gravitated toward this particular one:
 
 ![Proposal 1](/img/proposal 1.jpg)
 
-Our current idea is to use a fairly simple, light colored structure constructed of masonry and architectural block or landscaping pavers. Mounted to the structure is a laser-etched sign made of cortex steel, which naturally rusts. In this state, it should be relatively low-maintenance and last a long time. The aesthetic is fairly unique yet flexible in the surroundings it could fit in. Due to the many styles of houses in our neighborhood that have been constructed in the 60+ years since its inception, there is not one diffinitive look or set of materials in use, which makes it a challenge to come up with a fitting design.
+Our current idea is to use a fairly simple, light colored structure constructed of masonry and architectural block or landscaping pavers. Mounted to the structure is a laser-etched sign made of corten steel, which naturally rusts. In this state, it should be relatively low-maintenance and last a long time. The aesthetic is fairly unique yet flexible in the surroundings it could fit in. Due to the many styles of houses in our neighborhood that have been constructed in the 60+ years since its inception, there is not one diffinitive look or set of materials in use, which makes it a challenge to come up with a fitting design.
 
 Over the winter I mocked up a few ideas in a photo editor.
 
