@@ -35,16 +35,16 @@ board:
   officers:
     heading: Board Members
     president:
-      imageUrl: /img/about-brahmwindeler.jpg
-      name: Brahm Windeler
-      position: President
-    vice_president:
       imageUrl: /img/about-bengalliway.jpg
       name: Ben Galliway
-      position: Vice President
-    treasurer:
+      position: President
+    vice_president:
       imageUrl: /img/about-emilyperez.jpg
       name: Emily Perez
+      position: Vice President
+    treasurer:
+      imageUrl: /img/about-brahmwindeler.jpg
+      name: Brahm Windeler
       position: Treasurer
     secretary:
       imageUrl: /img/about-leahroberts.jpg
