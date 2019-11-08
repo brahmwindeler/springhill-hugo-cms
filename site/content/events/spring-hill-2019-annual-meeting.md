@@ -1,6 +1,6 @@
 ---
 title: Spring Hill 2019 HOA Annual Meeting
-date: 2019-11-11T19:00:00-05:00
+date: 2019-11-11
 publishdate: 2019-10-19T20:41:31.773Z
 location: Meadow Brook Elementary Media Center
 description: 2019 HOA Annual Meeting
