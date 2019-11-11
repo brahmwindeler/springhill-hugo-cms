@@ -1,13 +1,15 @@
 ---
 title: Spring Hill 2019 HOA Annual Meeting
-date: 2019-11-11
+date: 2019-11-11T00:00:00.000Z
 publishdate: 2019-10-19T20:41:31.773Z
 location: Meadow Brook Elementary - Art Room
 description: 2019 HOA Annual Meeting
 image: /img/img_7501.jpg
 type: event
 ---
-_UPDATE: Due to a Book Fair being held in the Media Center for the week, the meeting has been moved to the Art Room._
+_**UPDATE 2019-11-11**: We just received notification from RCS that due to the inclement weather, all after school events, including any facility rentals (like ours) have been cancelled. Due to the road conditions and no backup venue, **we will therefore be cancelling the meeting scheduled for tonight**. We will reschedule for a later date and will post the information to the Facebook group and website. Thanks for your understanding. Stay safe out there!_
+
+_**UPDATE 2019-10-25**: Due to a Book Fair being held in the Media Center for the week, the meeting has been moved to the Art Room._
 
 Our annual HOA meeting will be at Meadow Brook Elementary in the Art Room on Monday, November 11th from 7-8pm, with a discussion on raising money to replace the entrance signs to follow.
 
