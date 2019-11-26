@@ -1,12 +1,13 @@
 ---
 title: Holiday House Hop
-date: 2019-12-07T21:55:06-05:00
+date: 2019-12-08T02:55:06.000Z
 publishdate: 2019-11-26T02:55:06.764Z
 location: Spring Hill Subdivision
 description: >-
   Join us for our first annual Holiday House Hop! Take a stroll through the
   past, present and future of Spring Hill while mixing and mingling with
   neighbors. 
+image: /img/74785846_10220898256151858_3615538366382080000_n.jpg
 type: event
 ---
 This adults only event will feature stops at three host homes where you'll enjoy appetizers, drinks and meeting new friends. 
