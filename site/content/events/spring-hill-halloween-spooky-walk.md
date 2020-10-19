@@ -1,6 +1,6 @@
 ---
 title: Spring Hill Halloween Spooky Walk
-date: 2020-10-25T03:19:23.000Z
+date: 2020-10-23T23:19:23-04:00
 publishdate: 2020-10-19T03:19:23.139Z
 location: Trail at Braeburn at W Maryknoll
 description: >-
