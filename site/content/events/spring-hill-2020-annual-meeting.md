@@ -2,7 +2,7 @@
 title: Spring Hill 2020 Annual Meeting
 date: 2020-11-10T03:23:36.000Z
 publishdate: 2020-11-09T03:23:36.540Z
-location: Zoom Meeting (details below)
+location: Zoom meeting (details below)
 description: 2020 HOA Annual Meeting
 image: /img/img_5940.jpg
 type: event
