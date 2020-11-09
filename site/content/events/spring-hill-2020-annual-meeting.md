@@ -17,7 +17,7 @@ We are in need of new board members! This is a great way to become active in the
 
 ## Details:
 
-**When:  **Nov 9, 2020 7:00 PM Eastern Time\
+**When: **November 9, 2020 7:00 PM Eastern Time\
 [Join Zoom Meeting](https://zoom.us/j/5504490266?pwd=SVpQN3JsNWhtYkxkVHRjSVZzTnFLUT09) ( <https://zoom.us/j/5504490266?pwd=SVpQN3JsNWhtYkxkVHRjSVZzTnFLUT09> )\
 **Meeting ID:** 550 449 0266\
 **Passcode:** R2N96p
