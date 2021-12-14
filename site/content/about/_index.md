@@ -91,7 +91,7 @@ board:
       name: Brahm Windeler
       position: Treasurer
     vice_president:
-      imageUrl: ''
+      imageUrl: /img/blank-white-square-thumbnail.jpg
       name: '[vacant]'
       position: Vice President
 committees:
