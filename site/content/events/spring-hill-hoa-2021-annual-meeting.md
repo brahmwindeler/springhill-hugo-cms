@@ -8,7 +8,11 @@ type: event
 ---
 Due to COVID safety concerns, we will will be hosting the meeting virtually over Zoom.
 
-Please check the Spring Hill Sub Facebook page or email us for the video conference URL or Meeting ID / Passcode.
+**Join Zoom Meeting**\
+https://us02web.zoom.us/j/81849190109?pwd=bU9XVjRlSE9Fb0NtYUdOOFRpaUJ0UT09
+
+**Meeting ID: **818 4919 0109\
+**Passcode: **868785
 
 ## Agenda:
 
