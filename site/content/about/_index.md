@@ -39,24 +39,17 @@ board:
       name: Ben Galliway
       position: President
     vice_president:
-      imageUrl: /img/about-emilyperez.jpg
-      name: Emily Perez
+      imageUrl: /img/blank-white-square-thumbnail.jpg
+      name: [Vacant]
       position: Vice President
     treasurer:
       imageUrl: /img/about-brahmwindeler.jpg
       name: Brahm Windeler
       position: Treasurer
-<<<<<<< HEAD
-    vice_president:
-      imageUrl: /img/blank-white-square-thumbnail.jpg
-      name: '[vacant]'
-      position: Vice President
-=======
     secretary:
       imageUrl: /img/about-leahroberts.jpg
       name: Leah Roberts
       position: Secretary
->>>>>>> parent of f5b6b94 (Update Pages “about”)
 committees:
   heading: Committees
   markdownifyText: true
