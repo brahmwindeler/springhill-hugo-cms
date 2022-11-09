@@ -1,6 +1,6 @@
 ---
 title: 2022 Holiday House Hop
-date: 2022-12-03T15:27:51-05:00
+date: 2022-12-03T20:27:51.000Z
 publishdate: 2022-11-09T20:27:51.298Z
 location: Spring Hill neighborhood
 description: >-
@@ -9,6 +9,7 @@ description: >-
 
   Meet your neighbors, eat, drink and be merry! Appitizers and Drinks will be
   served.
+image: /img/christmas_main.jpg
 type: event
 ---
 Festivities begin at 6pm.
