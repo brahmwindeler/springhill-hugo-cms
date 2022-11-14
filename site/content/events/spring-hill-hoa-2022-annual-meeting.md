@@ -1,6 +1,6 @@
 ---
 title: Spring Hill HOA 2022 Annual Meeting
-date: 2022-11-15T14:28:18-05:00
+date: 2022-11-15T19:28:18.000Z
 publishdate: 2022-11-09T19:28:18.014Z
 location: Zoom Conference
 description: The 2022 HOA annual meeting will be held on November 15th at 7pm ET.
@@ -8,7 +8,13 @@ type: event
 ---
 We will will be hosting the meeting virtually over Zoom.
 
-The meeting link and passcode will be shared shortly before the call.
+**Zoom link:** <https://us02web.zoom.us/j/82493316403?pwd=by9IVnVYUzVXTUJjbzhIQTZIRVltdz09>
+
+**Meeting ID:** 824 9331 6403\
+**Passcode:** 014417
+
+**One tap mobile**\
++19292056099,,82493316403#,,,,*014417# US (New York)
 
 **Agenda:**
 
