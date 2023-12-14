@@ -1,6 +1,6 @@
 ---
 title: 2023 Annual Meeting
-date: 2023-12-14T20:38:38-05:00
+date: 2023-12-15T01:38:38.000Z
 publishdate: 2023-12-09T01:38:38.597Z
 location: Zoom Video Conference
 description: |-
@@ -9,8 +9,6 @@ description: |-
   We will will be hosting the meeting virtually over Zoom.
 type: event
 ---
-Zoom video conference details will be shared on the date of the meeting.
-
 **Agenda:**
 
 * Welcome and Introduction
@@ -21,3 +19,27 @@ Zoom video conference details will be shared on the date of the meeting.
 * Unfinished Business
 * New Business
 * Adjournment for annual meeting
+
+\
+**Video Conference information:**
+
+<https://us02web.zoom.us/j/86507594926?pwd=NWxLeVdsdEhReldHOUxVdHJBYnp1dz09>
+
+Meeting ID: 865 0759 4926\
+Passcode: 965383
+
+\---
+
+One tap mobile\
++13126266799,,86507594926#,,,,*965383# US (Chicago)
+
+\---
+
+Dial by your location
+
+• +1 312 626 6799 US (Chicago)
+
+Meeting ID: 865 0759 4926\
+Passcode: 965383
+
+Find your local number: <https://us02web.zoom.us/u/k7Vwa3e3E>
